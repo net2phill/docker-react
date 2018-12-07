@@ -9,7 +9,8 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Even in AWS, this works!!! Edit <code>src/App.js</code> and save to reload.
+            //Even in AWS, this works!!! Edit <code>src/App.js</code> and save to reload.
+            I was changed on the feature branch!
           </p>
           <a
             className="App-link"
