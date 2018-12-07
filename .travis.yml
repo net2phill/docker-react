@@ -7,4 +7,3 @@ before_install:
   
 script:
   - docker run net2phill/docker-react npm run test -- --coverage
-  
